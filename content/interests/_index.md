@@ -16,6 +16,6 @@ header:
 ---
 I have great interests in musical instruments. Which includes play the piano, violin, and guitar. I started playing piano since I was 4 and competed in numerous competitions. In high school and college, I turned into a keyboardist and vocalist to play in bands and perform on various stages. Now I am mainly playing guitar in my free time and write some easy songs. Below is pictures of me playing on stage!
 
- {{< figure src="grass_music.jpg" caption="My performance in Grass Music  Festival, NTHU!" theme="light" >}}
- {{< figure src="rolling_bamboo.jpg" caption="My performance in Rolling Bamboo Music Festival, NTHU!" theme="light" >}}
- {{< figure src="guitar1.jpg" caption="My performance in Physics Summer Camp!" theme="light" >}}
+ {{< figure src="grass_music.jpg" caption="My performance in Grass Music  Festival, NTHU!" >}}
+ {{< figure src="rolling_bamboo.jpg" caption="My performance in Rolling Bamboo Music Festival, NTHU!">}}
+ {{< figure src="guitar1.jpg" caption="My performance in Physics Summer Camp!">}}
